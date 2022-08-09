@@ -1,6 +1,3 @@
-# frozen_string_literal: true
-
-# application file
 require_relative 'boot'
 
 require 'rails/all'
